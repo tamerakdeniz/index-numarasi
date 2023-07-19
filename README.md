@@ -2,10 +2,6 @@
 
 Bu, C# programlama dilinde yazılmış bir örnek uygulamadır. Bu uygulama, bir dizi içerisinde belirli bir öğenin indeks numarasını bulmanıza olanak tanır.
 
-## Başlarken
-
-Bu talimatlar, projeyi yerel bir geliştirme ortamında çalıştırmanızı veya geliştirmenize başlamanızı sağlayacaktır. Dağıtım için ek adımlar gerektirebilir.
-
 ### Gereksinimler
 
 - Visual Studio veya benzeri bir C# geliştirme ortamı
